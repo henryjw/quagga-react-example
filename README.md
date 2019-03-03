@@ -5,7 +5,7 @@ Showcasing QuaggaJS in combination with ReactJS
 
 ```bash
 > npm install
-> webpack
+> npm start
 ```
 
-Open `dist/index.html` in your browser.
+Open `localhost:3000` in your browser.
